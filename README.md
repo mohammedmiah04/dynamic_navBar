@@ -1,1 +1,1 @@
-visit : http://mohammedmiah04.github.com/dynamic_navBar
+visit : http://mohammedmiah04.github.io/dynamic_navBar
